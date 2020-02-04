@@ -16,7 +16,7 @@ Here are the steps I used.
 ~$ sudo apt install git libx11-dev libxkbfile-dev libsecret-1-dev fakeroot rpm libnss3 apt-transport-https
 ```
 
-### 2. Install nodejs 8.11.2
+### 2. Install nodejs 10.x which is compatible with newest vsCode version
 
 ```bash
 ~$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
