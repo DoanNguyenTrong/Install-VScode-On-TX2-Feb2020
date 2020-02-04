@@ -19,9 +19,9 @@ Here are the steps I used.
 ### 2. Install nodejs 8.11.2
 
 ```bash
-~$ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
-~$ wget https://deb.nodesource.com/setup_8.x
-~$ sudo bash setup_8.x
+~$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+~$ wget https://deb.nodesource.com/setup_10.x
+~$ sudo bash setup_10.x
 ~$ sudo apt-get install -y nodejs
 
 # Check if nodejs installation is ok using the command
