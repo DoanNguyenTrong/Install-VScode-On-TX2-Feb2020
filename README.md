@@ -92,7 +92,7 @@ Here are the steps I used.
 
 ### 10. Enable Extensions' market
 
-You need to open the file **~/vscode/product.json** and append the key or easier, download the [json file](./product.json) and replace it in your fork repo:
+You need to open the file **~/vscode/product.json** and append the key below ;or easier, download this [json file](./product.json) and replace it in your fork repo:
 
 ```
 "extensionsGallery": {
