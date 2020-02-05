@@ -90,5 +90,17 @@ Here are the steps I used.
 
 ![install image](./figures/Screenshot1.png)
 
+### 10. Enable Extensions' market
+
+You need to open the file **~/vscode/product.json** and append the key or easier, download the [json file](./product.json) and replace it in your fork repo:
+
+```
+"extensionsGallery": {
+    "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+    "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
+    "itemUrl": "https://marketplace.visualstudio.com/items"
+}
+```
+
 ### You will find some interesting comments in [Nvidia forum](https://devtalk.nvidia.com/default/topic/1035752/how-to-install-quot-visual-studio-code-quot-/)
 Enjoy!
