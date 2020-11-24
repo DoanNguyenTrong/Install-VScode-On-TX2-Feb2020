@@ -1,5 +1,5 @@
 
-# Install VScode on Nvidia TX2
+# Install VScode on Nvidia TX2 with extensions
 
 VScode is a nice IDE for developers. It is widely used and has many features.
 Even so, I struggled trying to install it, using many different solutions found in the internet.
